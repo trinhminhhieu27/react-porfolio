@@ -13,8 +13,8 @@ Fonts
 
 Skills
 ----------------------------------------------
-I love to create design which speaks, Keep it clean, minimal and simple.
-I LIKE TO DESIGN
+I'm just a boy starting to learn to be a developer
+I LIKE TO CODE
 Web Design
 Mobile Apps
 TOOLS
@@ -22,19 +22,19 @@ Figma
 
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
 SKILLS
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js etc.
 
 TOOLS
-VScode, Github, Codepen etc.
+VScode, Github etc.
 
 ----------------------------------------------
 
 About Text
 
 ----------------------------------------------
-I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+I'm a developer located in VietNam. I love to learn how to create simple yet beautiful websites with great user experience.
 
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+I'm interested in the whole frontend stack Like trying new things and building great projects. I love to write code and read books.
 
 I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
 ----------------------------------------------
